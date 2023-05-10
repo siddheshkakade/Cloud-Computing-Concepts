@@ -28,10 +28,13 @@ These scenarios require more infrastructure scalability and agility than traditi
 All this is challenging to scale when demand spikes or business grows. You run the risk of running out of capacity or overbuilding and paying for infrastructure that you never use.
 These challenges are why IaaS use is steadily growing. Learn more about Google Cloud IaaS products and solutions.
 
-IaaS defined
+IaaS defined:
+
 Infrastructure as a service also known as IaaS is the on-demand availability of highly scalable computing resources as services over the internet. It eliminates the need for enterprises to procure, configure, or manage infrastructure themselves, and they only pay for what they use.
 
-IaaS explained: How does it work?
+IaaS explained: 
+
+How does it work?
 IaaS in cloud computing is when you rent access to cloud infrastructure resources as individual services from a cloud service provider (CSP), including servers, virtual machines, networking resources, and storage. IaaS helps eliminate much of the complexity and costs associated with building and maintaining physical infrastructure in an on-premises data center.  
 
 The CSP is responsible for managing and maintaining the infrastructure, so you can concentrate on installing, configuring, and managing software and keeping your data secure. IaaS providers also offer additional services, such as detailed billing management, logging, monitoring, storage resiliency, and security. 
@@ -59,6 +62,7 @@ With SaaS service models, the service provider delivers the entire application s
 SaaS examples: Google Workspace.
 
 IaaS security
+
 Unlike traditional on-premises environments, cloud security is a shared responsibility between service providers and their customers. 
 
 With IaaS models, the CSP secures the resources and other hardware that support the underlying infrastructure, including compute, storage, patching, and the physical network. As a customer, you will be responsible for securing your data, applications, virtual network controls, operating system, and user access. 
@@ -71,41 +75,53 @@ In other words, IaaS security is only as secure as your cloud service provider m
 
 What are the benefits of IaaS?
 
-It’s economical
+It’s economical:
+
 Because IaaS resources are used on demand and enterprises only have to pay for the compute, storage, and networking resources that are actually used, IaaS costs are fairly predictable and can be easily contained and budgeted for.  
 
-It’s efficient
+It’s efficient:
+
 IaaS resources are regularly available to businesses when they need them. As a result, enterprises reduce delays when expanding infrastructure and, alternatively, don’t waste resources by overbuilding capacity.
 
-It boosts productivity
+It boosts productivity:
+
 Because the cloud provider is responsible for setting up and maintaining the underlying physical infrastructure, enterprise IT departments save time and money and can redirect resources to more strategic activities.
 
-It’s reliable
+It’s reliable:
+
 IaaS has no single point of failure. Even if any one component of the hardware resources fails, the service will usually still remain available.
 
-It’s scalable
+It’s scalable:
+
 One of the biggest advantages of IaaS in cloud computing is the capability to scale the resources up and down rapidly according to the needs of the enterprise.
 
 It drives faster time to market
 Because IaaS offers virtually infinite flexibility and scalability, enterprises can get their work done more efficiently, ensuring faster development life cycles.
 
-Advantages of IaaS
-Cost savings
+What are advantages of IaaS?
+
+Cost savings:
+
 IaaS helps reduce your upfront capital expenditures. Resources are used on demand, meaning you only have to pay for the compute, storage, and networking resources that you consume. IaaS costs are fairly predictable and can be easily contained and budgeted for. 
 
-Increased efficiency
+Increased efficiency:
+
 IaaS resources are regularly available to businesses when they need them. As a result, organizations can reduce provisioning delays when expanding infrastructure and, alternatively, avoid wasting resources by overbuilding capacity. 
 
-More innovation
+More innovation:
+
 IT teams not only have more time to spend on strategic work, IaaS makes it fast and affordable to test new products and ideas. You can easily spin up the necessary computing infrastructure without having to wait days or weeks for it to be ready, speeding up development lifecycles and time to market. 
 
-Reliability
+Reliability:
+
 IaaS platforms have no single point of failure. Cloud infrastructure offers built-in redundancy and fault tolerance, with workloads spread across multiple servers and facilities. Even if one component of the hardware resources fails, the service will usually remain available. 
 
-High scalability
+High scalability:
+
 One of the biggest advantages of IaaS in cloud computing is the capability to automatically  scale resources up and down rapidly. You can accommodate sudden spikes in demand almost instantly and scale back when the resources are no longer required. 
 
-Lower latency
+Lower latency:
+
 Most cloud service providers achieve greater availability and resiliency with the help of a global network that covers multiple geographies. You can minimize latency and increase performance by placing apps and services in the regions and zones closest to your end users. 
 
 Refernce: https://cloud.google.com/learn/what-is-iaas#:~:text=IaaS%20(infrastructure%20as%20a%20service)%20is%20a%20cloud%20service%20model,and%20individuals%20via%20the%20cloud

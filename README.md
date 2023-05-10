@@ -42,21 +42,25 @@ The CSP is responsible for managing and maintaining the infrastructure, so you c
 You can access IaaS resources using a pay-as-you-go basis, allowing you to only pay to consume the resources that you need. In other words, you can easily increase or decrease resources, allowing you to pay less when needed or instantly provision and scale out resources to meet new demand.
 
 IaaS vs. PaaS vs. SaaS
+
 Like other “as a service” models, such as Platform as a service (PaaS) and Software as a service (SaaS), infrastructure as a service models offer a degree of management. But what exactly is the difference between IaaS, PaaS, and SaaS? The answer is that they each provide a different cloud service: an infrastructure environment versus platform tools versus complete applications.
 
 Depending on the service type you choose, the CSP manages different elements of the computing stack:
 
 Infrastructure as a service (IaaS)
+
 For IaaS models, the service provider hosts, maintains, and updates the backend infrastructure, such as compute, storage, networking, and virtualization. You manage everything else including the operating system, middleware, data, and applications. 
 
 IaaS examples: Compute Engine, Cloud Storage.
 
 Platform as a service (PaaS)
+
 Like IaaS models, for PaaS models, the service provider delivers and manages the backend infrastructure. However, PaaS models provide all the software features and tools needed for application development. You still have to write the code and manage your apps and data but do not have to worry about managing or maintaining the software development platform.
 
 PaaS examples: Cloud Run, App Engine.
 
 Software as a service (SaaS)
+
 With SaaS service models, the service provider delivers the entire application stack—the complete application and all the infrastructure needed to deliver it. As a customer, all you have to do is connect to the app through the internet—the provider is responsible for everything else. 
 
 SaaS examples: Google Workspace.
@@ -95,7 +99,8 @@ It’s scalable:
 
 One of the biggest advantages of IaaS in cloud computing is the capability to scale the resources up and down rapidly according to the needs of the enterprise.
 
-It drives faster time to market
+It drives faster time to market:
+
 Because IaaS offers virtually infinite flexibility and scalability, enterprises can get their work done more efficiently, ensuring faster development life cycles.
 
 What are advantages of IaaS?
